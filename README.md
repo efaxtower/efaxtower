@@ -34,7 +34,17 @@ No me considero un experto en nada. Soy un **aprendiz permanente** que construye
 ![Samba](https://img.shields.io/badge/-Samba-0078D4?style=flat-square)
 ![Cockpit](https://img.shields.io/badge/-Cockpit-5A5A5A?style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+---
 
+## 🚀 Ver el portafolio
+
+<div align="center">
+  <a href="https://efaxtower.github.io/jp_dada_portafolio/">
+    <img src="https://img.shields.io/badge/🌐_Visitar_Portafolio-000000?style=for-the-badge" alt="Visitar Portafolio" />
+  </a>
+</div>
+
+---
 ---
 
 ## 🏗️ Proyectos Destacados
