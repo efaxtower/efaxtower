@@ -83,6 +83,7 @@ Sistema CRUD que mi papá usa para gestionar su panadería. Calcula costos de pr
 **Tecnologías:** PHP, MySQL, HTML, CSS
 
 **Lo que aprendí:** Los sistemas no se hacen para uno, se hacen para resolver problemas reales.
+[Ver repositorio - Codigo privado](https://github.com/efaxtower/Sys-Panaderia)
 
 ---
 
@@ -96,7 +97,7 @@ Script en Bash que convierte MIDI a frecuencias para el buzzer de Linux.
 - Configurado para iniciar al encender mi PC
 
 **Mi favorita:** *La Gata Bajo la Lluvia* 🎵
-
+**[Ver Repositorio](https://github.com/efaxtower/Beep-InitLinux)**
 ---
 
 ### 🏥 **Dra. Victoria** *(En producción)*
