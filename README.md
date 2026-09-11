@@ -1,178 +1,153 @@
 # 👋 Hola, soy Jesús Pérez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Aprendiz+de+Desarrollador;Aprendiz+de+Administrador+de+Sistemas;18+años;De+Venezuela;Construyendo+infraestructura+real" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desarrollador+Web+%7C+Aprendiz+de+Infraestructura;19+a%C3%B1os+%7C+Venezuela;Construyendo+sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
 </div>
+
+---
 
 ## 🧑‍💻 Sobre mí
 
-Tengo 19 años, soy de Venezuela y estoy aprendiendo **desarrollo web** y **administración de sistemas**. 
+Tengo **19 años**, soy de **Venezuela** y estoy construyendo mi camino entre el **desarrollo web** y la **administración de sistemas**.
 
-Mi camino comenzó con PHP y HTML, pero pronto descubrí que me fascina **cómo funcionan los servidores, las redes y la infraestructura**. Hoy tengo un servidor local con LAMP, SAMBA y Cockpit, y estoy aprendiendo a gestionarlo como un profesional.
+Empecé con **PHP y HTML**, pero pronto me di cuenta de que lo que realmente me apasiona es entender **cómo funcionan los servidores, las redes y la infraestructura**. Hoy administro mi propio servidor local con **LAMP, Samba y Cockpit**, y uso ese laboratorio para aprender haciendo.
 
-No me considero un experto en nada. Soy un **aprendiz permanente** que construye cosas reales y resuelve problemas concretos.
+No me considero experto en nada todavía. Soy un **aprendiz permanente** que construye cosas reales: sistemas que mi familia y clientes reales usan todos los días.
+
+> *"No necesito ser el mejor. Solo necesito ser mejor que ayer."*
 
 ---
 
-## 🛠️ Tecnologías que uso y aprendo
+## 🛠️ Habilidades y nivel actual
 
 ### Desarrollo Web
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) *(Aprendiendo)*
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+| Tecnología | Nivel | Evidencia |
+|---|---|---|
+| **PHP** | Intermedio | 3 proyectos en producción (panadería, supermercado, sitio médico) |
+| **MySQL** | Intermedio | Diseño de BD relacionales para múltiples proyectos |
+| **HTML / CSS** | Intermedio | Sitios en producción con diseño responsive |
+| **JavaScript** | Básico-Intermedio | Modales, mapas, botones dinámicos de WhatsApp |
+| **Bootstrap / Tailwind** | Básico | Usado en proyectos personales y de portafolio |
+| **Laravel** | Aprendiendo | En curso, aún sin proyecto en producción |
 
 ### Infraestructura y Servidores
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) *(Aprendiendo)*
-![Samba](https://img.shields.io/badge/-Samba-0078D4?style=flat-square)
-![Cockpit](https://img.shields.io/badge/-Cockpit-5A5A5A?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
----
 
-## 🚀 Ver el portafolio
-
-<div align="center">
-  <a href="https://efaxtower.github.io/jp_dada_portafolio/">
-    <img src="https://img.shields.io/badge/🌐_Visitar_Portafolio-000000?style=for-the-badge" alt="Visitar Portafolio" />
-  </a>
-</div>
-
----
----
-
-## 🏗️ Proyectos Destacados
-
-### 🖥️ **Mi Servidor Local** *(Infraestructura)*
-
-Tengo un servidor con **1GB de RAM** que uso como laboratorio. Configuré:
-
-- **LAMP** (Linux, Apache, MySQL, PHP) para desarrollo web
-- **SAMBA** para compartir archivos en la red local
-- **Cockpit** para administrar el servidor desde el navegador
-- **Apache vinculado a Samba** para editar código desde Windows sin usar nano
-- **Entornos virtuales con Docker** (aprendiendo)
-
-**¿Cómo trabajo?** 
-Edito código desde Windows, se guarda en la carpeta compartida de Samba, y Apache lo sirve desde el servidor Linux. Flujo de trabajo profesional.
-
-**¿Qué estoy aprendiendo?**
-- Administración de servidores
-- Gestión de permisos y usuarios
-- Redes locales (SAMBA 1, 2 y 3)
-- Virtualización con Docker
+| Tecnología | Nivel | Evidencia |
+|---|---|---|
+| **Linux (Debian/Ubuntu)** | Intermedio | Servidor propio funcionando 24/7 |
+| **LAMP** | Intermedio | Configurado desde cero, sirviendo proyectos reales |
+| **Samba** | Intermedio | Flujo de trabajo Windows → Linux vía carpeta compartida |
+| **Cockpit** | Básico-Intermedio | Administración del servidor desde navegador |
+| **Bash** | Básico | Scripts de automatización (ej: Beep Jesus Pro) |
+| **Docker** | Aprendiendo | Contenedores básicos, en progreso |
+| **Redes locales** | Aprendiendo | Configuración de Samba 1, 2 y 3 |
 
 ---
 
-### 🛒 **SindroMerchado** *(Desarrollo)*
+## 🚀 Proyectos Destacados
 
-*Sistema de supermercado online con microservicios*
+### 🥖 Sistema de Panadería — *En producción*
 
-**Estado:** 68% completado (funciona localmente)
+**Sistema CRUD que mi papá usa a diario para gestionar su panadería.**
 
-**Arquitectura:**
-- 6 microservicios (API Gateway, Admin, Clientes, Empleados, Carnicería, Estantes)
-- Autenticación con API Key
-- Bases de datos separadas por servicio
-- Carrito en localStorage + WhatsApp
+Calcula costos de producción, margen de ganancia y precios de venta. Es mi proyecto más importante porque **está en uso real y resuelve un problema concreto**.
 
-**Objetivo:** Aprender arquitectura de microservicios y escalabilidad.
+- **Stack:** PHP, MySQL, HTML, CSS
+- **Estado:** ✅ En producción
+- **Repositorio:** Privado (código propietario)
 
----
-
-### 🥖 **Sistema de Panadería** *(En producción con mi papá)*
-
-Sistema CRUD que mi papá usa para gestionar su panadería. Calcula costos de producción, margen de ganancia y precios de venta.
-
-**Tecnologías:** PHP, MySQL, HTML, CSS
-
-**Lo que aprendí:** Los sistemas no se hacen para uno, se hacen para resolver problemas reales.
-[Ver repositorio - Codigo privado](https://github.com/efaxtower/Sys-Panaderia)
+**Lo que aprendí:** *Los sistemas no se hacen para uno mismo, se hacen para resolver problemas reales de personas reales.*
 
 ---
 
-### 💻 **Beep Jesus Pro v3.0.1** *(Personal)*
+### 🏥 Dra. Victoria — *En producción*
 
-Script en Bash que convierte MIDI a frecuencias para el buzzer de Linux.
+**Sitio web médico con modales, mapa de ubicación y botones de WhatsApp con mensajes predefinidos.**
 
-**Características:**
-- Convierte archivos MIDI a notas
-- Reproduce canciones en el buzzer del sistema
-- Configurado para iniciar al encender mi PC
-
-**Mi favorita:** *La Gata Bajo la Lluvia* 🎵
-**[Ver Repositorio](https://github.com/efaxtower/Beep-InitLinux)**
----
-
-### 🏥 **Dra. Victoria** *(En producción)*
-
-Sitio web médico con HTML, CSS y JavaScript puro.
-
-🔗 **[Ver sitio](https://dravictoriap.com)**
+- **Stack:** HTML, CSS, JavaScript puro
+- **Estado:** ✅ En producción
+- 🔗 **[Ver sitio en vivo](https://dravictoriap.com)**
 
 ---
 
-### 🎨 **Guía de Estilos de Diseño Web**
+### 🛒 SindroMerchado — *En desarrollo (68%)*
 
-Archivo HTML local con 35 estilos, librerías de iconos, tipografías y paletas de colores.
+**Sistema de supermercado online con arquitectura de microservicios.**
+
+- **Arquitectura:**
+  - 6 microservicios: API Gateway, Admin, Clientes, Empleados, Carnicería, Estantes
+  - Autenticación por API Key
+  - Bases de datos separadas por servicio
+  - Carrito en `localStorage` + integración con WhatsApp
+- **Stack:** PHP puro
+- **Estado:** 🚧 En desarrollo (funciona localmente)
+- **Objetivo:** Aprender arquitectura de microservicios y escalabilidad
 
 ---
 
-## 📡 Especialización en Redes y Servidores
+### 🖥️ Servidor Local — *Infraestructura*
 
-**Mi objetivo a largo plazo:** Convertirme en **arquitecto de infraestructura** y gestionar servidores, redes y sistemas.
+**Mi laboratorio personal: un servidor con 1 GB de RAM que uso para aprender administración de sistemas.**
 
-**Lo que ya sé:**
-- Configurar LAMP desde cero
-- Compartir archivos con SAMBA
-- Administrar servidores con Cockpit
-- Gestionar permisos y usuarios en Linux
-- Conceptos básicos de Docker
+- **LAMP** para desarrollo web
+- **Samba** para compartir archivos en red local
+- **Cockpit** para administración desde el navegador
+- **Apache vinculado a Samba** para editar código desde Windows sin tocar `nano`
+- **Docker** (aprendiendo contenedores)
 
-**Lo que estoy aprendiendo:**
-- Redes más avanzadas
-- Docker y contenedores
-- Automatización con scripts
-- Seguridad en servidores
+**Flujo de trabajo:** Edito desde Windows → se guarda en carpeta Samba → Apache sirve desde Linux. Flujo profesional con recursos limitados.
+
+---
+
+### 💻 Beep Jesus Pro v3.0.1 — *Proyecto personal*
+
+**Script en Bash que convierte archivos MIDI a frecuencias para el buzzer de Linux.**
+
+- Convierte MIDI a notas y las reproduce en el buzzer del sistema
+- Configurado para iniciar al encender el PC
+- **Mi favorita:** *La Gata Bajo la Lluvia* 🎵
+- 🔗 **[Ver repositorio](https://github.com/efaxtower/Beep-InitLinux)**
+
+---
+
+### 🎨 Guía de Estilos de Diseño Web — *Recurso personal*
+
+Archivo HTML local con **35 estilos**, librerías de iconos, tipografías y paletas de colores. Lo uso como referencia rápida para mis proyectos.
 
 ---
 
 ## 🧠 ¿Cómo trabajo?
 
-1. **Diseño la arquitectura** (en papel)
-2. **Investigo** documentación, tutoriales, IA
-3. **Construyo** el proyecto
-4. **Pruebo y corrijo**
-5. **Documento** lo que aprendí
+1. **Diseño la arquitectura** (en papel, antes de tocar código)
+2. **Investigo** documentación, tutoriales y uso IA como apoyo
+3. **Construyo** el proyecto por partes
+4. **Pruebo y corrijo** con casos reales
+5. **Documento** lo que aprendí para no repetir errores
 
-**Uso IA como herramienta**, no como reemplazo de mi razonamiento. El diseño y las decisiones son completamente míos.
+**Sobre la IA:** La uso como herramienta de aprendizaje y apoyo, **no como reemplazo de mi razonamiento**. Las decisiones de arquitectura y diseño son completamente mías.
 
 ---
 
-## 📚 Lo que estoy aprendiendo
+## 🎯 Metas actuales
+
+- [ ] Terminar **SindroMerchado** con todos los servicios funcionando
+- [ ] Aprender **Docker** para contenerizar mis proyectos
+- [ ] Montar un **rack físico** con servidores reales
+- [ ] Aprender **Laravel** y usarlo en un proyecto real
+- [ ] Conseguir mi **primera oportunidad profesional** en desarrollo o infraestructura
+- [ ] Seguir aprendiendo sin dejar que el miedo me detenga
+
+---
+
+## 📚 Actualmente aprendiendo
 
 - **Laravel** (framework PHP)
 - **Docker** (contenedores y entornos virtuales)
-- **Administración avanzada de servidores**
-- **Redes y SAMBA**
+- **Redes avanzadas** y configuración de Samba
+- **Seguridad en servidores**
 - **Patrones de diseño y arquitectura de software**
 - **Cloud computing** (próximo paso)
-
----
-
-## 🎯 Mis metas
-
-1. **Terminar SindroMerchado** con todos los servicios funcionando
-2. **Aprender Docker** para contenerizar mis proyectos
-3. **Montar un rack físico** con servidores reales
-4. **Conseguir mi primera oportunidad profesional** en desarrollo o administración de sistemas
-5. **Seguir aprendiendo** sin dejar que el miedo me detenga
 
 ---
 
@@ -180,15 +155,15 @@ Archivo HTML local con 35 estilos, librerías de iconos, tipografías y paletas 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/efaxtower)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-38B2AC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://efaxtower.github.io/jp_dada_portafolio/)
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 *"No necesito ser el mejor. Solo necesito ser mejor que ayer."*
 
 </div>
