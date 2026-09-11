@@ -1,7 +1,7 @@
 # 👋 Hola, soy Jesús Pérez
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Desarrollador+Web+%7C+Aprendiz+de+Infraestructura;19+a%C3%B1os+%7C+Venezuela;Construyendo+sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Desarrollador+Web+%7C+Aprendiz+de+Infraestructura;19+a%C3%B1os+%7C+Venezuela;Construyendo+sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 Sobre mí
