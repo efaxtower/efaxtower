@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Tengo 18 años, soy de Venezuela y estoy aprendiendo **desarrollo web** y **administración de sistemas**. 
+Tengo 19 años, soy de Venezuela y estoy aprendiendo **desarrollo web** y **administración de sistemas**. 
 
 Mi camino comenzó con PHP y HTML, pero pronto descubrí que me fascina **cómo funcionan los servidores, las redes y la infraestructura**. Hoy tengo un servidor local con LAMP, SAMBA y Cockpit, y estoy aprendiendo a gestionarlo como un profesional.
 
