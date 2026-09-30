@@ -117,6 +117,28 @@ Tengo un servidor con **1GB de RAM** que uso como laboratorio. Configuré:
 - **Apache vinculado a Samba** para editar código desde Windows sin usar nano
 - **Entornos virtuales con Docker** (aprendiendo)
 
+---
+### 📁 FileManager (Portafolio)
+
+Gestor de archivos web tipo Google Drive construido en PHP puro. Incluye:
+
+- Autenticación con bcrypt y sesiones
+- Roles (admin/usuario) y departamentos
+- Explorador de archivos con grid/lista
+- Carpetas compartidas con permisos por departamento/usuario
+- Sistema de reportes con estados y respuestas
+- Solicitudes de cuenta con captcha
+- Visor de imagen, texto, PDF + editor de texto
+- Modo claro/oscuro con glassmorfismo + neumorfismo
+- **6 tablas, 9 controladores, 15+ vistas**
+
+Tecnologías: PHP 8.2, MySQL, HTML5, CSS3, JavaScript vanilla
+
+Estado: ✅ Fase 1 + Fase 2 completas
+
+[Ver repositorio](https://github.com/efaxtower/filemanager)
+---
+
 **¿Cómo trabajo?**
 Edito código desde Windows, se guarda en la carpeta compartida de Samba, y Apache lo sirve desde el servidor Linux. Flujo de trabajo profesional.
 
